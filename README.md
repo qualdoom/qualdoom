@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qualdoom
 - 👀 I’m interested in doing something that can humanity move forward.
-- 🌱 I’m currently learning Machine Learning and math
+- 🌱 I’m currently learning machine Learning, c++ and math
 - 📫 You can write to me using telegram : @qualdum
 
 <!---
